@@ -1,9 +1,11 @@
-## Привет, мир! 👋 Меня зовут Анатолий!
+## Привет! 👋 Меня зовут Анатолий!
 ## Я начинающий Python-разработчик
 ### Я готов к новым вызовам и ищу возможности для роста и развития своих навыков. Если у вас есть интересные идеи, и вы ищете молодого и амбициозного разработчика, напишите мне! 
 ## Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krankir)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stroitel.proekt@gmail.com)
+[![Yandex](https://img.shields.io/badge/Yandex-D14836?style=for-the-badge&logo=yandex&logoColor=white)](mailto:krankir.git@yandex.ru)
+
 ## Вот что я умею:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
@@ -14,5 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-008272?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
-![Yandex Cloud](https://img.shields.io/badge/YandexCloud-FFDB4D?style=for-the-badge&logo=yandex&logoColor=black) 
+![Yandex Cloud](https://img.shields.io/badge/YandexCloud-FFDB4D?style=for-the-badge&logo=yandex&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-003B57?style=for-the-badge&logo=fastapi&logoColor=white) 
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=asyncio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
